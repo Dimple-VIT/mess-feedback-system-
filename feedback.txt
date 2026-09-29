@@ -1,0 +1,2 @@
+1|dinner|cls|4|good
+Dimple|Breakfast|crispy dosa with chutney|5|best
